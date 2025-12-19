@@ -1,1 +1,2 @@
-Text2
+Writing in a file using write mode.
+Previous content will be erased.
