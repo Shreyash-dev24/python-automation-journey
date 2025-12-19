@@ -1,0 +1,3 @@
+I'm testing SwiftData model inheritance (new in iOS 26) and encountering a crash when combining: 
+A model that inherits from another model 
+A separate model with relationships to the parent
