@@ -1,0 +1,15 @@
+2025-12-20 19:57:16,386 | ERROR | Try-Except.py:45 | Unexpected error occurred
+Traceback (most recent call last):
+  File "C:\Users\Shreyash\Desktop\python-automation-journey\basics\Exception\Try-Except.py", line 32, in <module>
+    raise Exception("Manual exception raised for testing")
+Exception: Manual exception raised for testing
+2025-12-20 19:57:30,114 | ERROR | Try-Except.py:38 | File not found
+Traceback (most recent call last):
+  File "C:\Users\Shreyash\Desktop\python-automation-journey\basics\Exception\Try-Except.py", line 28, in <module>
+    F = open('tex.txt')   # may raise FileNotFoundError
+FileNotFoundError: [Errno 2] No such file or directory: 'tex.txt'
+2025-12-20 20:03:01,967 | ERROR | Try-Except.py:38 | File not found
+Traceback (most recent call last):
+  File "C:\Users\Shreyash\Desktop\python-automation-journey\basics\Exception\Try-Except.py", line 28, in <module>
+    F = open('tex.txt')   # may raise FileNotFoundError
+FileNotFoundError: [Errno 2] No such file or directory: 'tex.txt'
