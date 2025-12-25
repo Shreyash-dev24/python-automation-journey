@@ -2,7 +2,7 @@ import os
 import shutil
 
 
-# C:\Users\Shreyash\Desktop\N_Organize\  
+
 
 def scan_dir(up):
     categories = {
