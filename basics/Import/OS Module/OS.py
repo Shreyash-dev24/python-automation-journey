@@ -5,6 +5,7 @@ Purpose: Demonstrate commonly used functions from the os module
 """
 
 import os
+
 from datetime import datetime
 
 # --------------------------------------------------
@@ -101,13 +102,4 @@ print("Is File:", os.path.isfile(sample_path))
 
 # Split filename and extension
 print("Split Extension:", os.path.splitext(sample_path))
-
-
-
-
-
-
-
-
-
 
